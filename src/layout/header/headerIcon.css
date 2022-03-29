@@ -1,0 +1,10 @@
+.header-img{
+    width: 45px;
+}
+.header-img-wide{
+    width: 25px;
+}
+.header-div{
+    flex: 1;
+    text-align: center;
+}

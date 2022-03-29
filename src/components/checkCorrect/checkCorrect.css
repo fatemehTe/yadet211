@@ -1,0 +1,29 @@
+.checkCorrect{
+    padding: 5%;  
+    position: fixed; 
+    bottom: 0px; 
+    left: 0px;
+    right: 0px;
+}
+.checkLine{
+    width: 100%;
+    background-color: lightgray;
+    height: 2px;
+    border-radius: 10px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.checkButtonCol{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.btn{
+    width: 150px;
+    height: 55px;
+    margin: 10px;
+    font-size: 40px;
+    background-color: gray;
+}

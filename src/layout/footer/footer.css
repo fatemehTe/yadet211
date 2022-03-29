@@ -1,0 +1,13 @@
+.footer{
+    padding: 15px;  
+    position: fixed; 
+    bottom: 0px; 
+}
+.footerLine{
+    width: 100%;
+    background-color: lightgray;
+    height: 2px;
+    border-radius: 10px;
+    position: absolute;
+    top: 0px;
+}

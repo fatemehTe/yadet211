@@ -1,0 +1,22 @@
+.CircularProgressbar-path {
+    stroke: red; 
+  }
+  .CircularProgressbar-trail {
+    stroke: gray;
+  }
+  .CircularProgressbar-text {
+    fill: yellow;
+  }
+  .CircularProgressbar-background {
+    fill: green;
+  }
+  .img-style{
+    width: 30px;
+    position: absolute;
+    right: 7px;
+    bottom: -1px;
+  }
+  .inner-img-style{
+    width: 80px;
+    filter: grayscale(80%);
+  }
